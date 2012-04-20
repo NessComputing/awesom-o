@@ -1,4 +1,4 @@
-# awesome-o
+# awesom-o
 
 Hubot setup for some hackings on.
 
